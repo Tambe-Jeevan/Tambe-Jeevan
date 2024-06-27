@@ -1,10 +1,9 @@
 - 👋 #Hi, I’m Jeevan Tambe
- [![trophy](https://github-profile-trophy.vercel.app/?username=Tambe-Jeevan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 👀 I’m interested in Developing Something like a differrent in world.
 - 🌱 I’m currently learning Information Technology.
 - 💞️ I’m looking to collaborate on Android App Developments(apk), Data Analysis.
 
-
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Tambe-Jeevan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Tambe-Jeevan)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <!---
