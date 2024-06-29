@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeevan Tambe</h1>
-<h3 align="center">A Passionate Data Analysis And Application Developments From India</h3>
+<h2 align="center">A Passionate about technology and software development From India.</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambe-jeevan" alt="tambe-jeevan" /></a> </p>
 
