@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Data Analysis Projects](https://github.com/Tambe-Jeevan/Data-Analysis-Projects)
 
-- 🌱 I’m currently learning **Android App Developments(Android Studio), Data Analysts**
+- 🌱 I’m currently learning [BE Information Technology SPPU ](https://sndcoe.ac.in/)
 
 - 👯 I’m looking to collaborate on [Application Development](https://github.com/Tambe-Jeevan/Android-App-Development)
 
