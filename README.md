@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tambe-Jeevan](https://github.com/Tambe-Jeevan)
 
-- 💬Ask me about **Power Bi, Android Studio**
-
 - 📫 How to reach me **tambejeevan168@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
