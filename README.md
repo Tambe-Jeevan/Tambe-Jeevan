@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tambejeevan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tambejeevan7" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/tambejeevan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tambejeevan7" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/jeevan tambe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan tambe" height="30" width="40" /></a>
-<a href="https://instagram.com/tambejeevan45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tambejeevan45" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/tambejeevan45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tambejeevan45" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/tambejeevan816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tambejeevan816" height="30" width="40" /></a>
 </p>
 
