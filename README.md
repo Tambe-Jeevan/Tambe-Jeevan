@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jeevan Tambe</h1>
 <h2 align="center">A Passionate about technology and software development From India.</h2>
 
-<h3>Hello! I'm Jeevan Tambe, currently pursuing a degree in Information Technology at SND College Of Engineering And Research Center Yeola, SPPU University. I have a deep-rooted passion for leveraging technology to solve real-world problems and drive innovation. 
+<h4>Hello! I'm Jeevan Tambe, currently pursuing a degree in Information Technology at SND College Of Engineering And Research Center Yeola, SPPU University. I have a deep-rooted passion for leveraging technology to solve real-world problems and drive innovation. 
 <br>🔍 Skills and Interests:- Proficient in Core Java , Java, Python Jupyter Notebook.- Experienced with Application Development.- Knowledgeable in Data Analysis, Data Cleaning, Data Visualizations.- Strong Problem-solving Skills 
 <br>🎓 Education:- Information Technology at Savitribai Phule Pune University.
 <br>🔧 Projects:- Developed Tic Tac Toe Application Calculator.- Currently working on Task Automation and Reminder System : Allow users to set reminders, appointments, and tasks using natural language commands ("Remind me to call John tomorrow at 10 AM").Use AI to understand and parse these commands, then set alarms or notifications accordingly.
 <br>🌟 Why IT?I am fascinated by the rapid evolution of technology and its potential to transform industries and improve lives. My goal is to contribute to this dynamic field by embracing challenges, continuous learning, and innovative thinking.
-<br>🤝 Networking:I'm eager to connect with professionals in the IT industry to exchange ideas, share insights, and explore opportunities for collaboration. Let's connect!</h3>
+<br>🤝 Networking:I'm eager to connect with professionals in the IT industry to exchange ideas, share insights, and explore opportunities for collaboration. Let's connect!</h4>
 
 - 🔭 I’m currently working on [Data Analysis Projects](https://github.com/Tambe-Jeevan/Data-Analysis-Projects)
 
