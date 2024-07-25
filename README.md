@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambe-jeevan" alt="tambe-jeevan" /></a> </p>
 
+<p>Hello! I'm Jeevan Tambe, currently pursuing a degree in Information Technology at SND College Of Engineering And Research Center Yeola, SPPU University. I have a deep-rooted passion for leveraging technology to solve real-world problems and drive innovation.🔍 Skills and Interests:- Proficient in Core Java , Java, Python Jupyter Notebook.- Experienced with Application Development.- Knowledgeable in Data Analysis, Data Cleaning, Data Visualizations.- Strong Problem-solving Skills🎓 Education:- Information Technology at Savitribai Phule Pune University.🔧 Projects:- Developed Tic Tac Toe Application Calculator.- Currently working on Task Automation and Reminder System : Allow users to set reminders, appointments, and tasks using natural language commands ("Remind me to call John tomorrow at 10 AM").Use AI to understand and parse these commands, then set alarms or notifications accordingly.🌟 Why IT?I am fascinated by the rapid evolution of technology and its potential to transform industries and improve lives. My goal is to contribute to this dynamic field by embracing challenges, continuous learning, and innovative thinking.🤝 Networking:I'm eager to connect with professionals in the IT industry to exchange ideas, share insights, and explore opportunities for collaboration. Let's connect!</p>
+
 - 🔭 I’m currently working on [Data Analysis Projects](https://github.com/Tambe-Jeevan/Data-Analysis-Projects)
 
 - 🌱 I’m currently learning [BE Information Technology SPPU ](https://sndcoe.ac.in/)
