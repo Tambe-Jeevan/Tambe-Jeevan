@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeevan Tambe</h1>
 <h2 align="center">A Passionate about technology and software development From India.</h2>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tambe-jeevan&show_icons=true&locale=en" alt="tambe-jeevan" /></p>
 <h4 align="center">Hello! I'm Jeevan Tambe, currently pursuing a degree in Information Technology at SND College Of Engineering And Research Center Yeola, SPPU University. I have a deep-rooted passion for leveraging technology to solve real-world problems and drive innovation.</h4>
 <h4><br>🔍 Skills and Interests:- Proficient in Core Java , Java, Python Jupyter Notebook.- Experienced with Application Development.- Knowledgeable in Data Analysis, Data Cleaning, Data Visualizations.- Strong Problem-solving Skills 
 <br>🎓 Education:- Information Technology at Savitribai Phule Pune University.
