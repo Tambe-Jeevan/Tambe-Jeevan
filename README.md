@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jeevan Tambe</h1>
 <h2 align="center">A Passionate about technology and software development From India.</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tambe-jeevan&show_icons=true&locale=en" alt="tambe-jeevan" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan" /> </p>
+
 <h4 align="center">Hello! I'm Jeevan Tambe, currently pursuing a degree in Information Technology at SND College Of Engineering And Research Center Yeola, SPPU University. I have a deep-rooted passion for leveraging technology to solve real-world problems and drive innovation.</h4>
 <h4><br>🔍 Skills and Interests:- Proficient in Core Java , Java, Python Jupyter Notebook.- Experienced with Application Development.- Knowledgeable in Data Analysis, Data Cleaning, Data Visualizations.- Strong Problem-solving Skills 
 <br>🎓 Education:- Information Technology at Savitribai Phule Pune University.
@@ -24,7 +26,8 @@
 <p align="left">
 <!-- <a href="https://twitter.com/tambejeevan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tambejeevan7" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/jeevan tambe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan tambe" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/tambejeevan45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tambejeevan45" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/tambejeevan45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tambejeevan45" height="30" width="40" /></a> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tambe-jeevan&show_icons=true&locale=en" alt="tambe-jeevan" /></p> -->
 <a href="https://www.hackerrank.com/tambejeevan816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tambejeevan816" height="30" width="40" /></a>
 </p>
 
