@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeevan Tambe</h1>
-<h2 align="center">A Passionate about technology and software development From India.</h2>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan" /> </p>
+<h2 align="center">A Passionate about technology and software development From India.</h2>
 
 <h4 align="center">Hello! I'm Jeevan Tambe, currently pursuing a degree in Information Technology at SND College Of Engineering And Research Center Yeola, SPPU University. I have a deep-rooted passion for leveraging technology to solve real-world problems and drive innovation.</h4>
 <h4><br>🔍 Skills and Interests:- Proficient in Core Java , Java, Python Jupyter Notebook.- Experienced with Application Development.- Knowledgeable in Data Analysis, Data Cleaning, Data Visualizations.- Strong Problem-solving Skills 
