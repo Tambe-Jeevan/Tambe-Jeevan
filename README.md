@@ -12,7 +12,7 @@
 <br>🌟 Why IT?I am fascinated by the rapid evolution of technology and its potential to transform industries and improve lives. My goal is to contribute to this dynamic field by embracing challenges, continuous learning, and innovative thinking.
 <br>🤝 Networking:I'm eager to connect with professionals in the IT industry to exchange ideas, share insights, and explore opportunities for collaboration. Let's connect!</h4>
 
-<!--- 🔭 I’m currently working on [Data Analysis Projects](https://github.com/Tambe-Jeevan/Data-Analysis-Projects)
+- 🔭 I’m currently working on [Data Analysis Projects](https://github.com/Tambe-Jeevan/Data-Analysis-Projects)
 
 - 🌱 I’m currently learning [BE Information Technology SPPU ](https://sndcoe.ac.in/)
 
@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tambe-Jeevan](https://github.com/Tambe-Jeevan)
 
-- 📫 How to reach me **tambejeevan168@gmail.com** -->
+- 📫 How to reach me **tambejeevan168@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
