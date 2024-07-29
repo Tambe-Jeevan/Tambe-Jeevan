@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jeevan Tambe</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan" /> </p>
+<h1 align="center">Hi, I'm Jeevan Tambe</h1>
 <h2 align="center">A Passionate about technology and software development From India.</h2>
 
 <h4 align="center">Hello! I'm Jeevan Tambe, currently pursuing a Bachelor Of Engineering in Information Technology, at SPPU University. I have a deep-rooted passion for leveraging technology to solve real-world problems and drive innovation.</h4>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambe-jeevan" alt="tambe-jeevan" /></a> </p>
 
