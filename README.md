@@ -3,7 +3,7 @@
 
 <h4 align="center">Hello! I'm Jeevan Tambe, currently pursuing a Bachelor Of Engineering in Information Technology, at SPPU University. I have a deep-rooted passion for leveraging technology to solve real-world problems and drive innovation.</h4>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan"/></p> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan"/></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambe-jeevan" alt="tambe-jeevan" /></a> </p>
 
