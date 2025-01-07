@@ -6,6 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan"/></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambe-jeevan" alt="tambe-jeevan" /></a> </p>
+<p align="center"> <a "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambe-jeevan" alt="tambe-jeevan" /></a></p>
 
 <!-- <h4><br>🔍 Skills and Interests:- Proficient in Core Java , Java, Python Jupyter Notebook.- Experienced with Application Development.- Knowledgeable in Data Analysis, Data Cleaning, Data Visualizations.- Strong Problem-solving Skills 
 <br>🎓 Education:- Information Technology at Savitribai Phule Pune University.
