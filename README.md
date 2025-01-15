@@ -6,14 +6,14 @@
 Hello! I'm Jeevan Tambe, currently pursuing a Bachelor Of Engineering in Information Technology, at SPPU University. 
 I have a deep-rooted passion for leveraging technology to solve real-world problems and drive innovation.</h4>
   
-<h3>Skills: 
+<h5>Skills: 
 • Programming Languages: JavaScript (ES6+), HTML5, CSS
 • Frameworks & Libraries: React.js, Redux,Flux
 • Tools & Technologies: Git, Webpack, NPM, APIs
 • Front-End Development: Responsive Design, DOM Manipulation
 • Build Systems: Modern build pipelines and tools
 • Version Control: Git, GitHub
-• Problem Solving: Benchmarking and optimization</h3>
+• Problem Solving: Benchmarking and optimization</h5>
 </pre>
 </div>
 
