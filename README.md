@@ -2,7 +2,7 @@
 <header>
 <h1 align="center">Hi, I am Jeevan Tambe</h1>
 <div>
-<pre><h4>A Passionate about technology and software development From India.
+<pre><h4 align-item="center">A Passionate about technology and software development From India.
 Hello! I'm Jeevan Tambe, currently pursuing a Bachelor Of Engineering in Information Technology, at SPPU University. 
 I have a deep-rooted passion for leveraging technology to solve real-world problems and drive innovation.</h4>
   
