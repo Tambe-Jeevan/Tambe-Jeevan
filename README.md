@@ -5,14 +5,16 @@
 <p align="center">A Passionate about technology and software development From India.</p>
 <p align="center">Hello! I'm Jeevan Tambe, currently pursuing a Bachelor Of Engineering in Information Technology, at SPPU University. I have a deep-rooted passion for leveraging technology to solve real-world problems and drive innovation.</p>
 
-<h4> Skills: <br>•Programming Languages: JavaScript (ES6+), HTML5, CSS
-•Frameworks & Libraries: React.js, Redux,Flux
-•Tools & Technologies: Git, Webpack, NPM, APIs
-•Front-End Development: Responsive Design, DOM Manipulation
-•Build Systems: Modern build pipelines and tools
-•Version Control: Git, GitHub
-•Problem Solving: Benchmarking and optimization
-</h4>
+<pre> 
+Skills: 
+• Programming Languages: JavaScript (ES6+), HTML5, CSS
+• Frameworks & Libraries: React.js, Redux,Flux
+• Tools & Technologies: Git, Webpack, NPM, APIs
+• Front-End Development: Responsive Design, DOM Manipulation
+• Build Systems: Modern build pipelines and tools
+• Version Control: Git, GitHub
+• Problem Solving: Benchmarking and optimization
+</pre>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan"/></p>
