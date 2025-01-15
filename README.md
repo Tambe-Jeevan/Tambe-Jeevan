@@ -1,27 +1,26 @@
+<body>
+<header>
 <h1 align="center">Hi, I am Jeevan Tambe</h1>
-<h2 align="center">A Passionate about technology and software development From India.</h2>
+<div>
+<p align="center">A Passionate about technology and software development From India.</p>
+<p align="center">Hello! I'm Jeevan Tambe, currently pursuing a Bachelor Of Engineering in Information Technology, at SPPU University. I have a deep-rooted passion for leveraging technology to solve real-world problems and drive innovation.</p>
 
-<h4 align="center">Hello! I'm Jeevan Tambe, currently pursuing a Bachelor Of Engineering in Information Technology, at SPPU University. I have a deep-rooted passion for leveraging technology to solve real-world problems and drive innovation.</h4>
+<h4> Skills: <br>•Programming Languages: JavaScript (ES6+), HTML5, CSS
+•Frameworks & Libraries: React.js, Redux,Flux
+•Tools & Technologies: Git, Webpack, NPM, APIs
+•Front-End Development: Responsive Design, DOM Manipulation
+•Build Systems: Modern build pipelines and tools
+•Version Control: Git, GitHub
+•Problem Solving: Benchmarking and optimization
+</h4>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan"/></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambe-jeevan" alt="tambe-jeevan" /></a> </p>
 <!-- <p align="center"> <a "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambe-jeevan" alt="tambe-jeevan" /></a></p> -->
 
-<h4><br>•Programming Languages: JavaScript
-(ES6+), HTML5, CSS
-•Frameworks & Libraries: React.js, Redux,
-Flux
-•Tools & Technologies: Git, Webpack,
-NPM, APIs
-•Front-End Development: Responsive
-Design, DOM Manipulation
-•Build Systems: Modern build pipelines
-and tools
-•Version Control: Git, GitHub
-•Problem Solving: Benchmarking and
-optimization
-</h4>
+
 
 
 <!-- - 🔭 I’m currently working on [Data Analysis Projects](https://github.com/Tambe-Jeevan/Data-Analysis-Projects)
@@ -47,3 +46,5 @@ optimization
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tambe-jeevan&show_icons=true&locale=en" alt="tambe-jeevan" /></p> -->
 <a href="https://www.hackerrank.com/tambejeevan816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tambejeevan816" height="30" width="40" /></a>
 </p>
+</header>
+</body>
