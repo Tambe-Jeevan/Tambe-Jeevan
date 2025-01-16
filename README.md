@@ -8,8 +8,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan"/></p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambe-jeevan" alt="tambe-jeevan" /></a> </p>
-
 <h2>About Me</h2>
 <p>
   Hello! I am <strong>Jeevan Tambe</strong>, a passionate 4th-year IT student with a keen interest in software development, data analytics, and deep learning.
@@ -38,7 +36,10 @@
 
 <h2>GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=tambe-jeevan&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambe-jeevan" alt="tambe-jeevan" /></a> 
 </p>
 
 <h2>Recent Projects</h2>
