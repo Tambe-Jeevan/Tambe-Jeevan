@@ -48,8 +48,8 @@
 
 <h2>Recent Projects</h2>
 <ul>
-  <li><a href="https://github.com/tambe-jeevan/web-dev">Project 1</a> - Description of Project 1</li>
-  <li><a href="https://github.com/tambe-jeevan/Basic-web-dev">Project 2</a> - Description of Project 2</li>
+<li><a href="https://github.com/tambe-jeevan/web-dev">Project 1</a> # 🌐 Web Development</li>
+  <li><a href="https://github.com/tambe-jeevan/Basic-web-dev">Project 2</a> Basic Web Development</li>
 </ul>
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
