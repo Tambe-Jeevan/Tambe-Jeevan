@@ -6,6 +6,10 @@
   <img src="https://your-image-url-here" alt="Profile Banner" width="100%">
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan"/></p>
+
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambe-jeevan" alt="tambe-jeevan" /></a> </p>
+
 <h2>About Me</h2>
 <p>
   Hello! I am <strong>Jeevan Tambe</strong>, a passionate 4th-year IT student with a keen interest in software development, data analytics, and deep learning.
@@ -44,19 +48,3 @@
 </ul>
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan"/></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambe-jeevan" alt="tambe-jeevan" /></a> </p>
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<!-- <a href="https://twitter.com/tambejeevan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tambejeevan7" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/jeevan tambe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan tambe" height="30" width="40" /></a>
-<a href="https://instagram.com/tambejeevan4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tambejeevan4" height="30" width="40" /></a> 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tambe-jeevan&show_icons=true&locale=en" alt="tambe-jeevan" /></p> -->
-<a href="https://www.hackerrank.com/tambejeevan816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tambejeevan816" height="30" width="40" /></a>
-</p>
