@@ -35,8 +35,8 @@
 
 <h2>Connect With Me</h2>
 <p>
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn"></a>
-  <a href="https://github.com/your-github-username" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/jeevan-tambe-39114925a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn"></a>
+  <a href="https://github.com/tambe-jeevan" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black" alt="GitHub"></a>
 </p>
 
 <h2>GitHub Stats</h2>
