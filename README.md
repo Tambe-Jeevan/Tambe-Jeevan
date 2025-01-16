@@ -10,10 +10,10 @@
 </p>
 
 <ul>
-  <li>🔭 Currently working on exciting projects in <strong>Mobile Computing</strong> and <strong>Deep Learning</strong>.</li>
-  <li>🌱 Learning advanced <strong>Data Analytics</strong> techniques.</li>
-  <li>💬 Ask me about <strong>Software Project Management</strong> and <strong>IT technologies</strong>.</li>
-  <li>📫 Reach me at <a href="mailto:tambejeevan168@gmail.com">tambejeevan168@gmail.com</a>.</li>
+  <li>Programming Languages: JavaScript (ES6+), HTML5, CSS.</li>
+  <li>Frameworks & Libraries: React.js, Redux, Flux</li>
+  <li>Front-End Development: Responsive Design, DOM Manipulation</li>
+  <li>Reach me at <a href="mailto:tambejeevan168@gmail.com">tambejeevan168@gmail.com</a>.</li>
 </ul>
 
 <h2>Skills</h2>
