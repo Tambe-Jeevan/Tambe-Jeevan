@@ -3,8 +3,9 @@
 <h1 align="center">Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  <img src="https://your-image-url-here" alt="Profile Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/deb46f44-229d-499f-a941-fe6304c819ff" alt="Profile Banner" width="100%">
 </p>
+<!-- ![WhatsApp Image 2023-12-27 at 13 51 42_ef7f7d9a](https://github.com/user-attachments/assets/deb46f44-229d-499f-a941-fe6304c819ff) -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan"/></p>
 
