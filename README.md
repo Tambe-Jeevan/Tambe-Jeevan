@@ -17,6 +17,15 @@
 </ul>
 
 <h2>Skills</h2>
+<ul>
+  <li><strong>Programming Languages:</strong> JavaScript (ES6+), HTML5, CSS</li>
+  <li><strong>Frameworks & Libraries:</strong> React.js, Redux, Flux</li>
+  <li><strong>Tools & Technologies:</strong> Git, Webpack, NPM, APIs</li>
+  <li><strong>Front-End Development:</strong> Responsive Design, DOM Manipulation</li>
+  <li><strong>Build Systems:</strong> Modern build pipelines and tools</li>
+  <li><strong>Version Control:</strong> Git, GitHub</li>
+  <li><strong>Problem Solving:</strong> Benchmarking and optimization</li>
+</ul>
 <p>
   <img src="https://img.shields.io/badge/Programming-Python-blue" alt="Python">
   <img src="https://img.shields.io/badge/Framework-TensorFlow-orange" alt="TensorFlow">
