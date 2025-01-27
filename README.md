@@ -1,5 +1,3 @@
-<!-- GitHub Profile README.md -->
-
 <h1 align="center">Welcome to My GitHub Profile</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan"/></p>
