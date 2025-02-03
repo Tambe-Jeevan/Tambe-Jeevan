@@ -26,6 +26,7 @@
 </ul>
 <p>
   <img src="https://img.shields.io/badge/Programming-Python-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Programming-JavaScript-blue" alt="JavaScript">
   <img src="https://img.shields.io/badge/Framework-TensorFlow-orange" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Version%20Control-Git-green" alt="Git">
 </p>
