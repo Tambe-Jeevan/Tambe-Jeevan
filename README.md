@@ -44,7 +44,7 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tambe-jeevan&show_icons=true&theme=radical" alt="GitHub Stats">
 </p> -->
-<p align="center"> 
+<p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambe-jeevan" alt="tambe-jeevan" /></a> 
 </p>
 
