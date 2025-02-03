@@ -35,6 +35,7 @@
 <p>
   <a href="https://www.linkedin.com/in/jeevan-tambe-39114925a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn"></a>
   <a href="https://www.kaggle.com/jeevantambe" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Profile-orange" alt="Kaggle"></a>
+  <a href="https://www.hackerrank.com/profile/tambejeevan816" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Profile-orange" alt="HackerRank"></a>
   <a href="https://github.com/tambe-jeevan" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-green" alt="GitHub"></a>
 </p>
 
