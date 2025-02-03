@@ -17,7 +17,7 @@
 <h2>Skills</h2>
 <ul>
   <li><strong>Programming Languages:</strong> JavaScript (ES6+), HTML5, CSS</li>
-  <li><strong>Frameworks & Libraries:</strong> React.js, Redux, Flux</li>
+  <li><strong>Frameworks & Libraries:</strong> React.js, BootStrap</li>
   <li><strong>Tools & Technologies:</strong> Git, Webpack, NPM, APIs</li>
   <li><strong>Front-End Development:</strong> Responsive Design, DOM Manipulation</li>
   <li><strong>Build Systems:</strong> Modern build pipelines and tools</li>
