@@ -49,9 +49,10 @@
 </p>
 
 <h2>Recent Projects</h2>
-<ul>
-<li><a href="https://github.com/tambe-jeevan/web-dev"><img src="https://img.shields.io/badge/WebDev-WebDev-blue" alt="WebDev"></a></li>
-  <li><a href="https://github.com/tambe-jeevan/Basic-web-dev"><img src="https://img.shields.io/badge/BasicWebDevelopment-WebDev-blue" alt="WebDev"></a></li>
-</ul>
+
+<p>
+  <a href="https://github.com/tambe-jeevan/web-dev"><img src="https://img.shields.io/badge/WebDev-WebDev-blue" alt="WebDev"></a></li>
+  <a href="https://github.com/tambe-jeevan/Basic-web-dev"><img src="https://img.shields.io/badge/BasicWebDevelopment-WebDev-blue" alt="WebDev"></a>
+</p>
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
