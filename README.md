@@ -26,8 +26,8 @@
 </ul>
 <p>
   <img src="https://img.shields.io/badge/Programming-JavaScript-blue" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Programming-CSS-red" alt="CSS">
-  <img src="https://img.shields.io/badge/Programming-HTML5-blue" alt="HTML5">
+  <img src="https://img.shields.io/badge/Programming-CSS-orange" alt="CSS">
+  <img src="https://img.shields.io/badge/Programming-HTML5-red" alt="HTML5">
   <img src="https://img.shields.io/badge/Version%20Control-Git-green" alt="Git">
 </p>
 
