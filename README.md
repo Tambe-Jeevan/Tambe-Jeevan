@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Programming-JavaScript-blue" alt="JavaScript">
   <img src="https://img.shields.io/badge/Scripting-CSS-orange" alt="CSS">
   <img src="https://img.shields.io/badge/MarkupLanguage-HTML5-red" alt="HTML5">
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-red" alt="Framework">
+  <img src="https://img.shields.io/badge/Framework-Bootstrap-purple" alt="Framework">
   <img src="https://img.shields.io/badge/Version%20Control-Git-green" alt="Git">
 </p>
 
