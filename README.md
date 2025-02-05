@@ -24,7 +24,7 @@
   <li><strong>Version Control:</strong> Git, GitHub</li>
   <li><strong>Problem Solving:</strong> Benchmarking and optimization</li>
 </ul>
-<p>
+<p align="center"> 
   <img src="https://img.shields.io/badge/Programming-JavaScript-yellow" alt="JavaScript">
   <img src="https://img.shields.io/badge/Scripting-CSS-blue" alt="CSS">
   <img src="https://img.shields.io/badge/MarkupLanguage-HTML5-red" alt="HTML5">
