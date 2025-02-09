@@ -29,7 +29,7 @@
   <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/Scripting-CSS-blue" alt="CSS"></a>
   <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/MarkupLanguage-HTML5-red" alt="HTML5"></a>
   <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src="https://img.shields.io/badge/Framework-Bootstrap-purple" alt="Framework"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Version%20Control-Git-black" alt="Git"></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Version%20Control-Git-black" alt="Git"></a>
 </p>
 
 <h2>Connect With Me</h2>
