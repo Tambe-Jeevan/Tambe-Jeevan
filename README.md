@@ -25,8 +25,8 @@
   <li><strong>Problem Solving:</strong> Benchmarking and optimization</li>
 </ul>
 <p> 
-  <a href="https://www.jetbrains.com/webstorm/download/download-thanks.html"><img src="https://img.shields.io/badge/Programming-JavaScript-yellow" alt="JavaScript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Scripting-CSS-blue" alt="CSS"></a>
+  <a href="https://www.w3schools.com/js/"><img src="https://img.shields.io/badge/Programming-JavaScript-yellow" alt="JavaScript"></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/Scripting-CSS-blue" alt="CSS"></a>
   <a href="#"><img src="https://img.shields.io/badge/MarkupLanguage-HTML5-red" alt="HTML5"></a>
   <a href="#"><img src="https://img.shields.io/badge/Framework-Bootstrap-purple" alt="Framework"></a>
   <a href="#"><img src="https://img.shields.io/badge/Version%20Control-Git-black" alt="Git"></a>
