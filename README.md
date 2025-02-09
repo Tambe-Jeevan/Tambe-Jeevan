@@ -25,11 +25,11 @@
   <li><strong>Problem Solving:</strong> Benchmarking and optimization</li>
 </ul>
 <p> 
-  <img src="https://img.shields.io/badge/Programming-JavaScript-yellow" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Scripting-CSS-blue" alt="CSS">
-  <img src="https://img.shields.io/badge/MarkupLanguage-HTML5-red" alt="HTML5">
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-purple" alt="Framework">
-  <img src="https://img.shields.io/badge/Version%20Control-Git-black" alt="Git">
+  <a href="https://www.jetbrains.com/webstorm/download/download-thanks.html"><img src="https://img.shields.io/badge/Programming-JavaScript-yellow" alt="JavaScript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Scripting-CSS-blue" alt="CSS"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MarkupLanguage-HTML5-red" alt="HTML5"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Framework-Bootstrap-purple" alt="Framework"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Version%20Control-Git-black" alt="Git"></a>
 </p>
 
 <h2>Connect With Me</h2>
