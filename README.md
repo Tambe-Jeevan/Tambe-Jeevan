@@ -9,7 +9,7 @@
 
 <ul>
   <li>Programming Languages: JavaScript (ES6+), HTML5, CSS.</li>
-  <li>Frameworks & Libraries: React.js, Redux, Flux</li>
+  <li>Frameworks & Libraries: React.js</li>
   <li>Front-End Development: Responsive Design, DOM Manipulation</li>
   <li>Reach me at <a href="mailto:tambejeevan168@gmail.com">tambejeevan168@gmail.com</a>.</li>
 </ul>
