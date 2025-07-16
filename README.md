@@ -8,6 +8,7 @@
 </p>
 
 <ul>
+  <li>Data Analysis using Power BI, Jupyter Notebook </li>
   <li>Programming Languages: JavaScript (ES6+), HTML5, CSS.</li>
   <li>Frameworks & Libraries: React.js</li>
   <li>Front-End Development: Responsive Design, DOM Manipulation</li>
