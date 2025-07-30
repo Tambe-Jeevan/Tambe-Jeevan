@@ -3,17 +3,17 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan"/></p>
 
 <h2>About Me</h2>
-<p>
+<h3>
   Hello! I am <strong>Jeevan Tambe</strong>, a passionate BE IT student with a keen interest in software development, data analytics.
-</p>
+</h3>
 
-<ul>
+<!--<ul>
   <li>Programming Languages: JavaScript (ES6+), HTML5, CSS.</li>
   <li>Frameworks & Libraries: React.js</li>
   <li>Front-End Development: Responsive Design, DOM Manipulation</li>
   <li>Data Analysis using Power BI, Jupyter Notebook </li>
   <li>Reach me at <a href="mailto:tambejeevan168@gmail.com">tambejeevan168@gmail.com</a>.</li>
-</ul>
+</ul> -->
 
 <h2>Skills</h2>
 <!-- <ul>
