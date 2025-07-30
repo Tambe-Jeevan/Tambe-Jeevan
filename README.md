@@ -3,8 +3,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tambe-jeevan&label=Profile%20views&color=0e75b6&style=flat" alt="tambe-jeevan"/></p>
 
 <h2>About Me</h2>
-<h3>
-  Hello! I am <strong>Jeevan Tambe</strong>, a passionate BE IT student with a keen interest in software development, data analytics.
+<h3 align="center">
+  Hello! I am <strong>Jeevan Tambe</strong>, a passionate BE IT graduated student with a keen interest in software development, data analytics.
 </h3>
 
 <!--<ul>
