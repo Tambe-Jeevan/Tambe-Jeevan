@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 <h3 align="center">
-  Hello! I am <strong>Jeevan Tambe</strong>, a passionate BE IT graduated student with a keen interest in software development, data analytics.
+  Hello! I am <strong>Jeevan Tambe</strong>, a passionate BE IT graduated student with a keen interest in software development.
 </h3>
 
 <!--<ul>
