@@ -16,7 +16,7 @@
 </ul>
 
 <h2>Skills</h2>
-<ul>
+<!-- <ul>
   <li><strong>Programming Languages:</strong> JavaScript (ES6+), HTML5, CSS</li>
   <li><strong>Frameworks & Libraries:</strong> React.js, BootStrap</li>
   <li><strong>Tools & Technologies:</strong> Git, APIs</li>
@@ -24,7 +24,7 @@
   <li><strong>Build Systems:</strong> Modern build pipelines and tools</li>
   <li><strong>Version Control:</strong> Git, GitHub</li>
   <li><strong>Problem Solving:</strong> Benchmarking and optimization</li>
-</ul>
+</ul> -->
 <p> 
   <a href="https://www.w3schools.com/js/"><img src="https://img.shields.io/badge/Programming-JavaScript-yellow" alt="JavaScript"></a>
   <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/Scripting-CSS-blue" alt="CSS"></a>
@@ -55,4 +55,4 @@
   <a href="https://github.com/tambe-jeevan/Basic-web-dev"><img src="https://img.shields.io/badge/BasicWebDevelopment-WebDev-blue" alt="WebDev"></a>
 </p>
 
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+<h2 align="center">✨ Thank you for visiting my profile! ✨</h2>
