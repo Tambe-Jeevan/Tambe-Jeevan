@@ -45,12 +45,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tambe-jeevan&show_icons=true&theme=radical" alt="GitHub Stats">
 </p> 
-<p> 
+<!-- <p> 
   <img src="https://github-profile-trophy.vercel.app/?username=tambe-jeevan" alt="tambe-jeevan"/> 
-</p>
+</p> -->
 
 <h2>Recent Projects</h2>
-
 <p>
   <a href="https://github.com/tambe-jeevan/web-dev"><img src="https://img.shields.io/badge/WebDev-WebDev-blue" alt="WebDev"></a></li>
   <a href="https://github.com/tambe-jeevan/Basic-web-dev"><img src="https://img.shields.io/badge/BasicWebDevelopment-WebDev-blue" alt="WebDev"></a>
