@@ -4,14 +4,14 @@
 
 <h2>About Me</h2>
 <p>
-  Hello! I am <strong>Jeevan Tambe</strong>, a passionate 4th-year IT student with a keen interest in software development, data analytics, and deep learning.
+  Hello! I am <strong>Jeevan Tambe</strong>, a passionate BE IT student with a keen interest in software development, data analytics.
 </p>
 
 <ul>
-  <li>Data Analysis using Power BI, Jupyter Notebook </li>
   <li>Programming Languages: JavaScript (ES6+), HTML5, CSS.</li>
   <li>Frameworks & Libraries: React.js</li>
   <li>Front-End Development: Responsive Design, DOM Manipulation</li>
+  <li>Data Analysis using Power BI, Jupyter Notebook </li>
   <li>Reach me at <a href="mailto:tambejeevan168@gmail.com">tambejeevan168@gmail.com</a>.</li>
 </ul>
 
@@ -19,7 +19,7 @@
 <ul>
   <li><strong>Programming Languages:</strong> JavaScript (ES6+), HTML5, CSS</li>
   <li><strong>Frameworks & Libraries:</strong> React.js, BootStrap</li>
-  <li><strong>Tools & Technologies:</strong> Git, Webpack, NPM, APIs</li>
+  <li><strong>Tools & Technologies:</strong> Git, APIs</li>
   <li><strong>Front-End Development:</strong> Responsive Design, DOM Manipulation</li>
   <li><strong>Build Systems:</strong> Modern build pipelines and tools</li>
   <li><strong>Version Control:</strong> Git, GitHub</li>
