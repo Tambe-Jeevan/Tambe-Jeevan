@@ -320,6 +320,7 @@ footer {
     align-items: center;
     width: 15rem;
     height: 15rem;
+    margin-left: 20%;
   }
   .profile-photo img {
     /* width: 100%; */
@@ -328,3 +329,4 @@ footer {
     height: 200px;
   }
 }
+
