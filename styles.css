@@ -97,7 +97,6 @@ header {
   opacity: 0;
   z-index: 2;
 }
-
 .profile-photo:hover i {
   color: #333;
   opacity: 1;
