@@ -1,46 +1,78 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact - Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Contact - Portfolio</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-    <header>
-        <nav>
-            <ul class="navbar">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="projects.html">Projects</a></li>
-                <li><a href="education.html">Education</a></li>
-            </ul>
-        </nav>
-    </header>
+  <!-- ========== Header / Navbar ========== -->
+  <header>
+    <nav>
+      <ul class="navbar">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="education.html">Education</a></li>
+      </ul>
+    </nav>
+  </header>
 
-    <main>
-        <section class="section">
-            <h1>Contact Me</h1>
-            <form id="contact-form">
-                <label for="name">Name:</label>
-                <input type="text" id="name" name="name" required>
+  <!-- ========== Main Content ========== -->
+  <main>
+    <section class="section">
+      <h1>Contact Me</h1>
+      <form id="contact-form" novalidate>
+        <label for="name">Name:</label>
+        <input 
+          type="text" 
+          id="name" 
+          name="name" 
+          placeholder="Your full name" 
+          required 
+          aria-label="Full Name"
+        />
 
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
+        <label for="email">Email:</label>
+        <input 
+          type="email" 
+          id="email" 
+          name="email" 
+          placeholder="you@example.com" 
+          required 
+          aria-label="Email address"
+        />
 
-                <label for="mobile-number">Mobile No:</label>
-                <input type="tel" id="mobile-number" name="mobile_number" required pattern="[0-9]{10}">
+        <label for="mobile-number">Mobile No:</label>
+        <input 
+          type="tel" 
+          id="mobile-number" 
+          name="mobile_number" 
+          placeholder="10-digit number" 
+          required 
+          pattern="[0-9]{10}" 
+          aria-label="Mobile number"
+        />
 
-                <label for="message">Message:</label>
-                <textarea id="message" name="message" required></textarea>
+        <label for="message">Message:</label>
+        <textarea 
+          id="message" 
+          name="message" 
+          rows="5" 
+          placeholder="Write your message here..." 
+          required 
+          aria-label="Your message"
+        ></textarea>
 
-                <button type="submit">Send</button>
-            </form>
-        </section>
-    </main>
+        <button type="submit">Send</button>
+      </form>
+    </section>
+  </main>
 
-    <footer>
-        <p>&copy; 2025 Jeevan Tambe. All Rights Reserved.</p>
-    </footer>
+  <!-- ========== Footer ========== -->
+  <footer>
+    <p>&copy; 2025 Jeevan Tambe. All Rights Reserved.</p>
+  </footer>
 </body>
 </html>

@@ -1,139 +1,121 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Portfolio - Jeevan Tambe</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
-    <header>
-        <nav>
-            <ul class="navbar">
-                <li><a href="about.html">About</a></li>
-                <li><a href="projects.html">Projects</a></li>
-                <li><a href="contacts.html">Contact</a></li>
-                <li><a href="education.html">Education</a></li>
-            </ul>
-        </nav>
-    </header>
+  <!-- ========== Header / Navbar ========== -->
+  <header>
+    <nav>
+      <ul class="navbar">
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="contacts.html">Contact</a></li>
+        <li><a href="education.html">Education</a></li>
+      </ul>
+    </nav>
+  </header>
 
-    <main>
-        <section class="about" class="section">
-            <div class="profile-photo">
-               <a href="https://www.linkedin.com/in/jeevan-tambe-39114925a/"><img src="assets/self.jpg" alt="Profile Photo"><i class="fa-brands fa-linkedin-in"></i></a> 
-               <button onclick="window.location.href='assets/JeevanTambe.pdf';">Download Resume</button>
-            </div>
-            <div class="description">
-                <h1>Welcome to My Portfolio</h1>
-                <p>Hello! I'm Jeevan Tambe, Graduated in Bachelor Of Engineering in Information Technology 2025, at SPPU University. I have a deep-rooted passion for leveraging technology to solve real-world problems and drive innovation.</p></div>
-        </section>
+  <main>
 
-        <section id="projects" class="section">
-            <h2>Projects</h2>
-            <div class="project-grid">
-                <div class="project-card">
-                    <h3>React Project</h3>
-                    <p>A modern React application built with reusable components, hooks, and responsive design principles. Features clean architecture, optimized performance, and easy scalability for future enhancements. Designed for an engaging, user-friendly experience.</p>
-                </div>
-                <div class="project-card">
-                    <h3>Backend App using JavaScript</h3>
-                    <p>A Node.js & Express backend with MongoDB integration for building RESTful APIs. Includes CRUD operations, modular routes, and Mongoose models. Easily extendable for authentication, validation, and scalable application development.</p>
-                </div>
-                <div class="project-card">
-                    <h3>Web Dev Project</h3>
-                    <p>Portfolio WebSite: A personal portfolio website designed to showcase skills, projects, and accomplishments in a visually appealing and user-friendly format. The site features an interactive interface, responsive design for seamless viewing across devices, and optimized performance.</p>
-                </div>
-                <div class="project-card">
-                    <h3>Data Aanalysis Projects</h3>
-                    <p>Jupyter Notebook is an open-source web application that allows users to create and share documents that contain live code, equations, visualizations, and narrative text. It is widely used in data science and research for its interactive computing capabilities.</p>
-                </div>
-            </div>
-        </section>
+    <!-- ========== About Section ========== -->
+    <section class="about section">
+      <div class="profile-photo">
+        <a href="https://www.linkedin.com/in/jeevan-tambe-39114925a/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+          <img src="assets/self.jpg" alt="Profile Photo of Jeevan Tambe" />
+          <i class="fa-brands fa-linkedin-in"></i>
+        </a>
+        <button onclick="window.location.href='assets/JeevanTambe.pdf';">Download Resume</button>
+      </div>
+      <div class="description">
+        <h1>Welcome to My Portfolio</h1>
+        <p>
+          Hello! I'm Jeevan Tambe, a 2025 graduate in Bachelor Of Engineering (Information Technology) from SPPU University. I am passionate about leveraging technology to solve real-world problems and drive innovation.
+        </p>
+      </div>
+    </section>
 
-        <section id="education" class="section">
-            <h2>Education</h2>
-            <div class="education-list">
-                <div class="education-item">
-                    <h3>Bachelor of Engineering in Information Technology</h3>
-                    <p>SND College of Engineering and Research Center Yeola CGPA: 7.28 <h5>Dec 2021 - Jun 2025</h5></p>
-                </div>
-                <div class="education-item">
-                    <h3>Higher Secondary Education</h3>
-                    <p>New English School Dr. Dhanawate Pa. Jr. College of Arts and Science Puntamba Percentage: 76.50%<h5>Jun 2020 - Mar 2021</h5></p>
-                </div>
-                <div class="education-item">
-                    <h3>Secondary Education</h3>
-                    <p>Gondegaon Madhyamik Vidyalay Gondegaon, Shrirampur Percentage: 72.20%<h5>Jun 2018 - Mar 2019</h5></p>
-                </div>
-            </div>
-        </section>
-        
-        <section id="social-media" class="section">
-            <h2>Connect with Me</h2>
-            <div class="social-links">
-                <a href="https://www.linkedin.com/in/jeevan-tambe-39114925a/" target="_blank" aria-label="LinkedIn">
-                    <i class="fa-brands fa-linkedin"></i>
-                </a>
-                <a href="https://github.com/Tambe-Jeevan" target="_blank" aria-label="GitHub">
-                    <i class="fa-brands fa-github"></i>
-                </a>
-                <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank" aria-label="Nokri">
-                    <i class="fa-solid fa-user-check"></i>
-                </a>
-                <a href="https://www.instagram.com/your-username" target="_blank" aria-label="Instagram">
-                    <i class="fa-brands fa-instagram"></i>
-                </a>
-            </div>
-        </section>
-        
+    <!-- ========== Projects Section ========== -->
+    <section id="projects" class="section">
+      <h2>Projects</h2>
+      <div class="project-grid">
+        <div class="project-card">
+          <h3>React Project</h3>
+          <p>A modern React app built with reusable components and responsive design. Clean architecture and optimized performance.</p>
+        </div>
+        <div class="project-card">
+          <h3>Backend App using JavaScript</h3>
+          <p>A Node.js & Express backend with MongoDB, supporting CRUD operations and scalable architecture using Mongoose models.</p>
+        </div>
+        <div class="project-card">
+          <h3>Web Dev Project</h3>
+          <p>A responsive portfolio website showcasing projects, skills, and contact information in an interactive format.</p>
+        </div>
+        <div class="project-card">
+          <h3>Data Analysis Projects</h3>
+          <p>25+ Jupyter Notebook projects demonstrating data processing, visualization, and analysis using Python and open-source tools.</p>
+        </div>
+      </div>
+    </section>
 
-        <section id="contact" class="section">
-            <h2>Contact</h2>
-            <form id="contact-form">
-                <label for="name">Name:</label>
-                <input type="text" id="name" name="name" required>
+    <!-- ========== Education Section ========== -->
+    <section id="education" class="section">
+      <h2>Education</h2>
+      <div class="education-list">
+        <div class="education-item">
+          <h3>Bachelor of Engineering (Information Technology)</h3>
+          <p>SND College of Engineering and Research Center, Yeola<br/>CGPA: 7.28 <br/><small>Dec 2021 – Jun 2025</small></p>
+        </div>
+        <div class="education-item">
+          <h3>Higher Secondary Education</h3>
+          <p>New English School Dr. Dhanawate Pa. Jr. College, Puntamba<br/>Percentage: 76.50% <br/><small>Jun 2020 – Mar 2021</small></p>
+        </div>
+        <div class="education-item">
+          <h3>Secondary Education</h3>
+          <p>Gondegaon Madhyamik Vidyalay, Shrirampur<br/>Percentage: 72.20% <br/><small>Jun 2018 – Mar 2019</small></p>
+        </div>
+      </div>
+    </section>
 
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
+    <!-- ========== Social Media Section ========== -->
+    <section id="social-media" class="section">
+      <h2>Connect with Me</h2>
+      <div class="social-links">
+        <a href="https://www.linkedin.com/in/jeevan-tambe-39114925a/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+        <a href="https://github.com/Tambe-Jeevan" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+        <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank" rel="noopener noreferrer" aria-label="Naukri"><i class="fa-solid fa-user-check"></i></a>
+        <a href="https://www.instagram.com/jeevantambe4" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+      </div>
+    </section>
 
-                <label for="mobile-number">Mobile No:</label>
-                <input type="tel" id="mobile-number" name="mobile_number" required pattern="[0-9]{10}">
+    <!-- ========== Contact Form Section ========== -->
+    <section id="contact" class="section">
+      <h2>Contact</h2>
+      <form id="contact-form">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required />
 
-                <label for="message">Message:</label>
-                <textarea id="message" name="message" required></textarea>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required />
 
-                <button type="submit">Send</button>
-            </form>
-        </section>
+        <label for="mobile-number">Mobile No:</label>
+        <input type="tel" id="mobile-number" name="mobile_number" required pattern="[0-9]{10}" />
 
-    </main>
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" rows="5" required></textarea>
 
-    <footer>
-        <section id="social-media">
-            <h2>Connect with Me</h2>
-            <div class="social-links">
-                <a href="https://www.linkedin.com/in/jeevan-tambe-39114925a/" target="_blank" aria-label="LinkedIn">
-                    <i class="fa-brands fa-linkedin"></i>
-                </a>
-                <a href="https://github.com/Tambe-Jeevan" target="_blank" aria-label="GitHub">
-                    <i class="fa-brands fa-github"></i>
-                </a>
-                <a href="https://www.instagram.com/jeevantambe4" target="_blank" aria-label="Instagram">
-                    <i class="fa-brands fa-instagram"></i>
-                </a>
-                <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank" aria-label="Nokri">
-                    <i class="fa-solid fa-user-check"></i>
-                </a>
-            </div>
+        <button type="submit">Send</button>
+      </form>
+    </section>
+  </main>
 
-        </section>
-        <p>&copy; 2025 Jeevan Tambe. All Rights Reserved.</p>
-    </footer>
-    
-
-    <!-- <script src="scripts.js"></script> -->
-    <!-- <script src="server.js"></script> -->
+  <!-- ========== Footer ========== -->
+  <footer>
+    <p>&copy; 2025 Jeevan Tambe. All Rights Reserved.</p>
+  </footer>
 </body>
 </html>
