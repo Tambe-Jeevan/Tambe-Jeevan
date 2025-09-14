@@ -20,7 +20,7 @@ body {
 
 /* Header */
 header {
-  background-color: var(--dark-color);  /* #333 */
+  background-color: var(--dark-color); /* #333 */
   color: #fff;
   padding: 1rem 0;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
@@ -146,6 +146,7 @@ header {
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 1.5rem;
   padding: 1rem;
+  margin-bottom: 4rem;
 }
 
 .project-card {
@@ -171,6 +172,7 @@ header {
 .education-list {
   max-width: 800px;
   margin: auto;
+  margin-top: 1rem;
   padding: 1rem;
   background-color: #fff;
   border-radius: 6px;
@@ -267,7 +269,7 @@ button:hover {
 
 /* Footer */
 footer {
-  background-color: var(--dark-color);  /* #333 */
+  background-color: var(--dark-color); /* #333 */
   color: #fff;
   text-align: center;
   padding: 1.2rem 0;
@@ -275,7 +277,6 @@ footer {
   letter-spacing: 0.3px;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
-
 
 /* Responsive */
 @media (max-width: 768px) {
@@ -306,5 +307,11 @@ footer {
 
   button {
     font-size: 1rem;
+  }
+
+  form {
+    max-width: 350px;
+    margin: auto;
+    text-align: left;
   }
 }
